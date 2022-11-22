@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I will tell you more about myself and what I do as soon as I get a chance to. For now, feel free to peruse my repos.
+
 <!--
 **karsten-vermeulen-dev/karsten-vermeulen-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
